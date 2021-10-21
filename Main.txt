@@ -1,3 +1,5 @@
 This is the first line
 
 This is the feature from feature branch
+
+This is another feature
